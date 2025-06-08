@@ -5,10 +5,10 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-   "test": "mocha",
-  "start": "parcel starter/index.html",
-  "build": "parcel build starter/index.html",
-  "cypress": "cypress open"
+    "test": "mocha",
+    "start": "parcel starter/index.html",
+    "build": "parcel build starter/index.html",
+    "cypress": "cypress open"
   },
   "devDependencies": {
     "@eslint/js": "^9.27.0",
@@ -25,4 +25,3 @@
     "prettier": "^3.5.3"
   }
 }
-
